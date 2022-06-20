@@ -1,7 +1,7 @@
 # Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation
 Code for the paper Attention Based Neural Networks for Wireless Channel Estimation HA02
 
-The code will be released when it is organized.
+The code will be released before 2022.09.31.
 
 Attention mechanism, channel estimation, Encoder-decoder archeitecture, deep learning
 
