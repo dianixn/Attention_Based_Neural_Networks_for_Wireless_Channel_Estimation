@@ -24,19 +24,23 @@ Run Training.Training_Transformer to train TR structure.
 		parameters_residual_neural_network contains the hyperparameters for the decoder
 
 %% File +Channel contains 
+
 		Propagation_Channel_Model is a LTEfading channel developed by MATLAB specificed in https://uk.mathworks.com/help/lte/ref/ltefadingchannel.html. 
 		We use generalized method of exact Doppler spread method for channel modelling. 
 
 %% File +CSI has
+
 		LS - It is the implementation of the LS method and the time interpolation method is bilinear method. 
 		MMSE - It is the linear MMSE method and the time interpolation method is bilinear method. 
 
 %% File +Data_Generation contains
+
 		Data_Generation - used to generate the training data for HA02. 
 		Data_Generation_Residual - used to generate the training data for InterpolateNet and ReEsNet
 		Data_Generation_Transformer - used to generate the training data for TR method. 
 
 %% File +OFDM contains 
+
 		OFDM_Receiver - OFDM receiver
 		OFDM_Transmitter - OFDM transmitter
 		Pilot_extract - extract the pilot 
@@ -44,16 +48,19 @@ Run Training.Training_Transformer to train TR structure.
 		QPSK_Modualtor - generate QPSK symbols 
 
 %% File +Pruning has
+
 		Encoder_Pruning - used to prune the TR method, but did not show in that paper
 		Hybrid_Pruning - used to prune the HA02
 		Residual_NN_Pruning - used to prune DAG network (trained InterpolateNet and ReEsNet)
 		We did not retrain the neural network after pruning in this paper. 
 
 %% File Residual_NN contains 
+
 		Interpolation_ResNet - Untrained InterpoalteNet (WSA paper)
 		Residual_transposed - Untrained ReEsNet
 
 %% File +transformer contains
+
 		model_transformer - system model for TR
 		model - system model for HA02
 			Encoder_block - the encoder of HA02 
