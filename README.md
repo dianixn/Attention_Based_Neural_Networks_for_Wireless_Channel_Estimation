@@ -3,8 +3,6 @@ Code for the paper Attention Based Neural Networks for Wireless Channel Estimati
 
 Cite as - D. Luan and J. Thompson, "Attention Based Neural Networks for Wireless Channel Estimation," 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), 2022, pp. 1-5, doi: 10.1109/VTC2022-Spring54318.2022.9860803.
 
-The code will be released along with journal version.
-
 Attention mechanism, channel estimation, Encoder-decoder archeitecture, deep learning
 
 Propose an encoder-decoder structure (called HA02) which exploits the attention mechanism to focus on the most important input information. In particular, we implement a transformer encoder block as the encoder to achieve the sparsity in the input features and a residual neural network as the decoder respectively. Using 3GPP channel models, our simulations show superior estimation performance compared with other candidate neural network methods for channel estimation.
