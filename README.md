@@ -1,6 +1,8 @@
 # Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation
 Code for the paper Attention Based Neural Networks for Wireless Channel Estimation HA02
 
+Code demostration: https://www.bilibili.com/video/BV1kM4y1o725/?spm_id_from=333.337.search-card.all.click
+
 Journal version is provided in https://github.com/dianixn/Channelformer
 
 Cite as - D. Luan and J. Thompson, "Attention Based Neural Networks for Wireless Channel Estimation," 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), 2022, pp. 1-5, doi: 10.1109/VTC2022-Spring54318.2022.9860803.
