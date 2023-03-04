@@ -1,7 +1,7 @@
 # Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation
 Code for the paper Attention Based Neural Networks for Wireless Channel Estimation HA02
 
-Code demostration: https://www.bilibili.com/video/BV1kM4y1o725/?spm_id_from=333.337.search-card.all.click
+Code demo: https://www.bilibili.com/video/BV11M411x7nA/?vd_source=360fe78de10e83a63ce18e9b02dfbc09
 
 Journal version is provided in https://github.com/dianixn/Channelformer
 
