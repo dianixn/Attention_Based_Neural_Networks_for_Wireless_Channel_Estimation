@@ -7,7 +7,7 @@ Cite as - D. Luan and J. Thompson, "Attention Based Neural Networks for Wireless
 
 %%
 
-These should be "crucial" not "critical", I used "replace all" by mistake. 
+These should be "crucial" not "critical", I used "replace all" by mistake. But "critical" does have a eamning of "important, vital" from dictionary. Just clarify. 
 
 %%
 
