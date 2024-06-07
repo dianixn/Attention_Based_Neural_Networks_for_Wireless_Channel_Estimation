@@ -81,4 +81,4 @@ I also attached the pruned neural networks, which are parameters_100_10, paramet
 
 %%% Comments 
 
-Run with MATLAB 2021B, with fully-installed deep learning toolbox because it requires customized training. 
+Run with MATLAB, with fully-installed deep learning toolbox because it requires customized training. 
