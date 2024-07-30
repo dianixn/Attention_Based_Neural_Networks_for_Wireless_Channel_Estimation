@@ -1,7 +1,7 @@
 # Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation
 Code for the paper Attention Based Neural Networks for Wireless Channel Estimation
 
-fix seed. 
+Choose your seed to fix. You may get a different result. 
 
 Journal version is provided in https://github.com/dianixn/Channelformer
 
