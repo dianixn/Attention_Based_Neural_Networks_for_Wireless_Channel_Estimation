@@ -45,7 +45,7 @@ lgraph = addLayers(lgraph,tempLayers);
 
 tempLayers = [
     additionLayer(2,"Name","addition_5")
-    transposedConv2dLayer([11 11],16,"Name","transposed-conv","Cropping","same","Stride", [2 7])
+    transposedConv2dLayer([10 10],16,"Name","transposed-conv","Cropping","same","Stride", [2 7])
     convolution2dLayer([3 3],2,"Name","conv_11","Padding","same")
     regressionLayer("Name","regressionoutput")];
 lgraph = addLayers(lgraph,tempLayers);
