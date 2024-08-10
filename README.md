@@ -1,7 +1,7 @@
 # Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation
 Code for the paper Attention Based Neural Networks for Wireless Channel Estimation
 
-Choose your seed to fix. You may get a different result. 
+No seed provided. same for channelformer. Choose your seed to fix. You may get a different result. 
 
 Run Demonstration_of_H_Rayleigh_Propogation_Channel and Demonstration_of_Pruning_Propogation_Channel for test. 
 
