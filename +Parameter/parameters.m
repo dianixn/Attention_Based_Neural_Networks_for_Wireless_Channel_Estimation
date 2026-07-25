@@ -5,7 +5,7 @@ k = log2(M);
 
 Num_of_subcarriers = 71; 
 Num_of_FFT = Num_of_subcarriers + 1; % 5G also deploy DC subcarrier, so dont remove DC
-length_of_CP = 16;
+length_of_CP = 16; %+7
 
 Num_of_symbols = 12;
 Num_of_pilot = 2;
