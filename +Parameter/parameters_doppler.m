@@ -5,7 +5,7 @@ k = log2(M);
 
 Num_of_subcarriers = 71; %126
 Num_of_FFT = Num_of_subcarriers + 1;
-length_of_CP = 16; %+7
+length_of_CP = 16 + 7; %+7
 
 Num_of_symbols = 12;
 Num_of_pilot = 2;
